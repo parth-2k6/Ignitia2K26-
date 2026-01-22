@@ -1,0 +1,43 @@
+{
+  "placeholderImages": [
+    {
+      "id": "celebrity-1",
+      "name": "Neeti Mohan",
+      "description": "Neeti Mohan",
+      "talent": "Versatile modern playback voice",
+      "year": "2025",
+      "imageUrl": "https://www.ignitia.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fceleb1.5b436f4c.png&w=2048&q=75",
+      "imageHint": "Neeti Mohan"
+    },
+    {
+      "id": "celebrity-2",
+      "name": "Kailash Kher",
+      "description": "Kailash Kher",
+      "talent": "Powerful Sufi folk singer",
+      "year": "2024",
+      "imageUrl": "https://images.unsplash.com/photo-1733629729650-ffa711be283d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxLYWlsYXNoJTIwS2hlcnxlbnwwfHx8fDE3Njg5MDA2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Kailash Kher"
+    },
+    {
+      "id": "celebrity-3",
+      "name": "Sukhwinder Singh",
+      "description": "Sukhwinder Singh",
+      "talent": "High energy vocalist",
+      "year": "2023",
+      "imageUrl": "https://www.ignitia.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fceleb3.6e0c4456.png&w=2048&q=75",
+      "imageHint": "Sukhwinder Singh"
+    },
+    {
+      "id": "about-psit",
+      "description": "PSIT campus building",
+      "imageUrl": "https://i.ibb.co/d0kgrBRh/wmremove-transformed.webp",
+      "imageHint": "college campus building"
+    },
+    {
+      "id": "about-ignitia",
+      "description": "Ignitia fest",
+      "imageUrl": "https://i.ibb.co/0jFsJypS/zf7kef3d61rmr0cvvctvysjpqm.png",
+      "imageHint": "ignitia fest"
+    }
+  ]
+}
